@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822248123656",
+    "project_id": "fir-push-notifiaction-c08d9",
+    "storage_bucket": "fir-push-notifiaction-c08d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822248123656:android:b3a237776e407f7bafd0bd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822248123656-tchup2rm13sjcamkrgff22t7ev4h3q9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNFjDwF67blSfrFjc1IDR7IBtPjYvveY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822248123656-tchup2rm13sjcamkrgff22t7ev4h3q9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
